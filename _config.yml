@@ -3,11 +3,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Dani's Web"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Dani Marinova"
 description              : &description "personal description"
-url                      : "https://cyrila24.github.io"
+url                      : "https://cyrila24.github.io/personal"
 baseurl                  : "/personal"
 repository               : "cyrila24/personal"
 
