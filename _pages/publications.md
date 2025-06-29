@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 
-## 📚 Recent Publications (2020–2025)
+## 📚 Recent Publications
 
-Below are select publications from the last five years. For a full list, please see my [CV](/personal/cv.pdf).
+Below are selected publications from the last five years. For a full list, please see my [CV](/personal/cv.pdf).
 
 ---
 
@@ -16,7 +16,7 @@ Marinova, Dani & León, Margarita. 2025. "Paternity leave take-up in a segmented
 
 ---
 
-Cañero Ruiz, Julia & Marinova, Danislava. (2025). "Equal and Non‑transferable Entitlement? Preferences Regarding the Parental Leave System in Spain". *Revista Española de Investigaciones Sociológicas*, 190, 61–84.  DOI: 10.5477/cis/reis.190.63-88
+Cañero Ruiz, Julia & Marinova, Danislava. (2025). "Equal and Non‑transferable Entitlement? Preferences Regarding the Parental Leave System in Spain". *Revista Española de Investigaciones Sociológicas*, 190, 61–84.  [Open access](https://reis.cis.es/index.php/reis/article/download/1744/2808/5239)
  
 ---
 
@@ -33,9 +33,5 @@ Marinova, Dani M. 2022. "Working Poverty, Nonstandard Employment and Political I
 ---
 
 Marinova, Dani M. & Anduiza, Eva. 2020. "When Bad News Is Good News: Information Acquisition in Times of Economic Crisis." *Political Behavior*, 42(2), 465–486.  [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4008356)
-
----
-
-*For a full list of publications, see my [CV](/personal/cv.pdf)*
 
 ---
