@@ -6,7 +6,7 @@ title: "Welcome to my academic website!"
 
 I am Associate Professor of Political Science at [Universitat Autònoma de Barcelona](https://www.uab.cat). 
 
-My research focuses has focused on political behavior, political parties, labor market policies and inequalities. My ongoing research explores the the consequences of social policy reform and in particular the introduction of equal and non-transfreable paternity leave entitlements in Spain.
+My research focuses political representation and accountability, with a particular insterest in how they are shaped by party systems, institutions and socioeconomic and gender-based inequalities. My current work investigates the consequences of social policy reforms, particularly the introduction of equal and non-transferable paternity leave entitlements in Spain.
 
 I am the Director of the [Master's Program in Political Science](https://master-ciencia-politica.uab.cat/).
 
