@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Publications"
-permalink: /personal/publications/
+permalink: /publications/
 author_profile: true
 ---
 
