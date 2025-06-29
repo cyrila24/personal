@@ -10,8 +10,7 @@ I am **Dani Marinova**, Associate Professor of Political Science at the [Univers
 
 You can find more information about:
 
-- My [publications](/personal/publications/)
+- My [publications](/personal/publications/) and [research projects](/personal/projects/)
 - My [teaching](/personal/teaching/)
-- [Conference talks and presentations](/personal/talks/)
 
 If you'd like to get in touch, feel free to reach out via [email](mailto:dani.marinova@uab.cat) or connect with me on [Google Scholar](https://scholar.google.com/citations?user=0Qgt2pUAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0001-7067-6792), or [Bluesky](https://bsky.app/profile/petroleuse-sbd.bsky.social).
