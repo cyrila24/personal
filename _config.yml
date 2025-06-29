@@ -7,7 +7,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Dani Marinova"
 description              : &description "personal description"
-url                      : "https://cyrila24.github.io/personal"
+url                      : "https://cyrila24.github.io"
 baseurl                  : "/personal"
 repository               : "cyrila24/personal"
 
