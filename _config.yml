@@ -25,7 +25,7 @@ author:
   avatar : "/images/profile.png"
   name             : "Dani Marinova"
   bio              : "Associate Professor of Political Science"
-  employer         : "Universitat Autònoma<br>de Barcelona"
+  employer: "Universitat Autònoma de&#8203; Barcelona"
   email            : "dani.marinova@uab.cat" 
 
   # Academic websites
