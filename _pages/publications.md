@@ -1,12 +1,9 @@
 ---
 layout: single
-title: "Publications"
+title: "Recent Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-
-## 📚 Recent Publications
 
 Below are selected publications from the last five years. For a full list, please see my [CV](/personal/cv.pdf).
 
