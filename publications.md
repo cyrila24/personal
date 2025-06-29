@@ -57,6 +57,3 @@ Below are select publications from the last five years. For a full list, please 
 You can download it for detailed information on all my publications, teaching, and research activities.
 
 ---
-
-Let me know if you’d like this page adjusted (grouped by year, formatted with DOIs, etc.).
-::contentReference[oaicite:6]{index=6}
