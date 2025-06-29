@@ -6,7 +6,7 @@ permalink: /personal/projects/
 
 ## 🧪 Ongoing Research Projects
 
-### **FAIRLEAVE – Fair Parental Leave Policies for a More Equal Society**
+### **FAIRLEAVE – Longer paternity leave, fairer labor markets?**
 
 **Full Title:** *Longer paternity leave, fairer labor markets? Evidence of the paternity leave reform in 2021 in Spain*  
 **Funded by:** State Research Agency (Spain)
