@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: "Home"
+title: "Welcome!"
 ---
 
 Welcome to my personal academic website!
