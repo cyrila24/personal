@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "https://cyrila24.github.io/personal/images/clarafortuny.jpg"
   name             : "Dani Marinova"
   bio              : "Associate Professor of Political Science"
   employer         : "Universitat Autònoma de Barcelona"
