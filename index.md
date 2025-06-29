@@ -1,10 +1,8 @@
 ---
 layout: single
 author_profile: true
-title: "Welcome!"
+title: "Welcome to my academic website!"
 ---
-
-Welcome to my personal academic website!
 
 I am Associate Professor of Political Science at [Universitat Autònoma de Barcelona](https://www.uab.cat). 
 
