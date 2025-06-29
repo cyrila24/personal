@@ -6,7 +6,11 @@ title: "Welcome!"
 
 Welcome to my personal academic website!
 
-I am **Dani Marinova**, Associate Professor of Political Science at the [Universitat Autònoma de Barcelona](https://www.uab.cat). My research focuses on political behavior, public policy, and the comparative politics of inequality. I am particularly interested in the political and social consequences of family policies, including the design and implementation of parental leave schemes.
+I am **Dani Marinova**, Associate Professor of Political Science at [Universitat Autònoma de Barcelona](https://www.uab.cat). 
+
+My research focuses on political behavior, social policy, and inequality. I am particularly interested in the political and social consequences of family policies, including the design and implementation of parental leave schemes.
+
+I am the Director of the [Master's Program in Political Science](https://master-ciencia-politica.uab.cat/).
 
 You can find more information about:
 
