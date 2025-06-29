@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Research Projects"
-permalink: /personal/projects/
+permalink: /projects/
 ---
 
 ## 🧪 Ongoing Research Projects
