@@ -1,8 +1,10 @@
 ---
 layout: page
-title: "Selected Recent Publications"
+title: "Publications"
 permalink: /personal/publications/
+author_profile: true
 ---
+
 
 ## 📚 Recent Publications (2020–2025)
 
