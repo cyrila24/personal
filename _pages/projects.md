@@ -4,14 +4,13 @@ title: "Ongoing Research Projects"
 permalink: /projects/
 ---
 
-### **FAIRLEAVE – Longer paternity leave, fairer labor markets?**
+I'm currently involved in two research projects tracing the impact of family and labor market reforms on gender-based inequalities in Spain.
 
-**Full Title:** *Longer paternity leave, fairer labor markets? Evidence of the paternity leave reform in 2021 in Spain*  
+### **FAIRLEAVE – Longer paternity leave, fairer labor markets? Evidence of the paternity leave reform in 2021 in Spain**  
 Funded by the Spanish State Research Agency (Agencia Estatal de Investigación)
 
-[Visit Project Website](https://webs.uab.cat/fairleave/)
+The project investigates, broadly, whether the introduction of equal and non-transferable maternity and paternity leave entitlements in Spain has helped reduce gender-based equalities in the labor market, within households, and in broader society. We have collected two waves of a longitudinal survey among parents of children born before and after the reform. The project was [featured in the State Research Agency's web](https://www.aei.gob.es/en/awarded-grants/featured-grants/proyecto-idi-2020-generacion-conocimiento-bajas-paternidad-largas)(in Spanish). Results were recently featured in a [dedicated article in *El País*](https://www.aei.gob.es/en/awarded-grants/featured-grants/proyecto-idi-2020-generacion-conocimiento-bajas-paternidad-largas) and [debated in the Spanish Senate](https://www.senado.es/web/actividadparlamentaria/actualidad/video/index.html?s=15_S011030_011_01&a=264520&t=1). FAIRLEAVE is hosted by the [Institute of Government and Public Policy](https://igop.uab.cat/en/). For more information, visit the [project's website](https://webs.uab.cat/fairleave/).
 
-FAIRLEAVE investigates how the design of parental leave systems shapes gender equality in the labor market, within households, and in broader society. The project compares different policy models across countries and examines how eligibility, transferability, and incentives affect the uptake and impact of leave by mothers and fathers. FAIRLEAVE is hosted at the Universitat Autònoma de Barcelona and brings together a multidisciplinary, international team of scholars.
 
 ---
 
