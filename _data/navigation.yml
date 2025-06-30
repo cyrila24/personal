@@ -14,11 +14,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Outreach"
-    url: /reachout/
+  - title: "Working papers"
+    url: /papers/    
     
   - title: "CV"
     url: /cv/
