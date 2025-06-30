@@ -15,10 +15,12 @@ FAIRLEAVE is a [featured project on the State Research Agency's web](https://www
 
 ---
 
-### **POLGENDA – Gender-Based Public Policies and Labor Market Discrimination: A Field Experiment in Barcelona, Madrid and Valencia*  
+### **POLGENDA – Gender-Based Public Policies and Labor Market Discrimination: A Field Experiment in Barcelona, Madrid and Valencia**  
 Funded in 2024 by the [Institute of Women](https://www.inmujeres.gob.es/en/elInstituto/conocenos/home.htm), part of the Ministry of Equality in Spain
 
-The project aims to offer causal evidence on the effectiveness — and potential unintended consequences — of gender-based family and labor market policies through a large-scale correspondence study. We are interested in whether recent or prospective parenthood triggers hiring biases, particularly among fathers. In addition, we test whether the presence or absence of registered equality plans in companies - following the 2021 requirement for Spanish firms to register these plans in the REGCON system - reduces discrimination or moderates the impact of family policies. The project's fieldwork is pending. Stay tuned! 
+The project aims to offer causal evidence on the effectiveness — and potential unintended consequences — of gender-based public policies through a large-scale correspondence study. We are interested in the impact of extending paternity leave entitlements on hiring biases toward recent and prospective parents, particularly fathers. In addition, we test whether the presence or absence of registered equality plans in companies - following the 2021 requirement for Spanish firms to register these plans in the REGCON system - reduces discrimination or moderates the impact of family policies. The project's fieldwork is pending. Stay tuned! 
+
+The project's co-PI is [Gabriela de Carvalho](https://www.researchgate.net/profile/Gabriela-De-Carvalho-5).
 
 ---
 
