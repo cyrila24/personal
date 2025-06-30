@@ -4,7 +4,7 @@ author_profile: true
 title: "Welcome to my academic website!"
 ---
 
-I am [Serra Hunter](https://recercaiuniversitats.gencat.cat/ca/serra-hunter/inici/index.html#googtrans(ca|en)) Associate Professor of Political Science at [Universitat Autònoma de Barcelona](https://www.uab.cat) and Director of the [Master's Program in Political Science](https://master-ciencia-politica.uab.cat/). 
+I am [Serra Hunter](https://recercaiuniversitats.gencat.cat/ca/serra-hunter/inici/) Associate Professor of Political Science at [Universitat Autònoma de Barcelona](https://www.uab.cat) and Director of the [Master's Program in Political Science](https://master-ciencia-politica.uab.cat/). 
 
 My research focuses on political behavior, gender studies, and, more recently, social policy. I have examined how party strategies, institutional contexts, and socioeconomic and gender-based inequalities condition the quality of political representation in European democracies. My current work explores the impact of family and labor market policy reforms on gender inequalities in Spain. Across these projects, my research is grounded in social psychological theory, with a strong emphasis on developing original measurement tools and identifying causal relationships.
 
