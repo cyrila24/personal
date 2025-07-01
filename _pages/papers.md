@@ -9,21 +9,21 @@ If you're interested in any of the following working papers, please get in touch
 
 ---
 
-**Marinova, Dani M. & [Bellón, Pedro Manuel](https://igop.uab.cat/en/2023/02/01/pedro-manuel-bellon/). "Paternity Leave and the Motherhood Penalty: How Within-Couple Inequalities Conditions Policy Impact."**
-
-<details>
-<summary><strong>Abstract</strong></summary>
-Motherhood-related labor market penalties remain a major driver of the gender employment gap. Father-specific paternity leave is often promoted as a policy tool to support maternal employment, yet evidence of its effectiveness is inconclusive. This article examines whether—and under what conditions—paternity leave reduces key dimensions of the motherhood penalty, including the timing of return to work, the terms of labor market reentry, and perceived professional sacrifice. We use original survey data from 1,800 mothers whose children were born before and after Spain’s 2021 paternity leave reform, which extended and equalized paternity leave to match maternity leave. Multinomial regression models show that equal, non-transferable paternity leave is associated with shorter employment interruptions but does not significantly alter reentry conditions. An important exception is mothers with earnings similar to their partners: they are significantly more likely to return to full-time work after the reform, attesting to the moderating role of intra-household economic equality on policy effects. However, mothers’ perceptions of professional sacrifice remain largely unchanged after the reform. Overall, while father-specific leave can alleviate some aspects of the motherhood penalty, its impact is modest and contingent on household characteristics.
-</details> 
-
----
-
 **Marinova, Dani M. & [de Carvalho, Gabriela](https://www.researchgate.net/profile/Gabriela-De-Carvalho-5). "De-penalizing motherhood? Paternity leave’s (un)intended effects on job discrimination."**
 
 <details>
 <summary><strong>Abstract</strong></summary>
 Job discrimination associated with motherhood has been documented across advanced capitalist economies, but we know little about the effectiveness of father-specific leave intended to redress it. Paternity leave seeks to increase and normalize men’s involvement in caregiving, challenge traditional gender norms that associate childcare primarily with mothers and reduce employer biases that penalize women for assumed caregiving responsibilities. We test this expectation for the first time by leveraging original survey data on reported discrimination by parents with children born before and after Spain’s 2021 paternity leave reform, which extended paternity leave and equalized it with maternity leave. Spain provides a compelling case to assess paternity leave’s impact, with over 80% of eligible fathers now taking paternity leave, alongside well-documented discrimination against mothers and no penalties for fathers. Results show that the reform did not reduce discrimination against mothers, who report stable rates of job discrimination before and after its implementation. Fathers, however, report significantly higher levels of job discrimination after the reform—especially in relation to hiring, termination, and workplace culture—suggesting that equal leave entitlements trigger new forms of bias against men as caregivers. 
 </details>  
+
+---
+
+**Marinova, Dani M. & [Bellón, Pedro Manuel](https://igop.uab.cat/en/2023/02/01/pedro-manuel-bellon/). "Paternity Leave and the Motherhood Penalty: How Within-Couple Inequalities Conditions Policy Impact."**
+
+<details>
+<summary><strong>Abstract</strong></summary>
+Motherhood-related labor market penalties remain a major driver of the gender employment gap. Father-specific paternity leave is often promoted as a policy tool to support maternal employment, yet evidence of its effectiveness is inconclusive. This article examines whether—and under what conditions—paternity leave reduces key dimensions of the motherhood penalty, including the timing of return to work, the terms of labor market reentry, and perceived professional sacrifice. We use original survey data from 1,800 mothers whose children were born before and after Spain’s 2021 paternity leave reform, which extended and equalized paternity leave to match maternity leave. Multinomial regression models show that equal, non-transferable paternity leave is associated with shorter employment interruptions but does not significantly alter reentry conditions. An important exception is mothers with earnings similar to their partners: they are significantly more likely to return to full-time work after the reform, attesting to the moderating role of intra-household economic equality on policy effects. However, mothers’ perceptions of professional sacrifice remain largely unchanged after the reform. Overall, while father-specific leave can alleviate some aspects of the motherhood penalty, its impact is modest and contingent on household characteristics.
+</details> 
 
 ---
 
